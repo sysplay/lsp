@@ -14,4 +14,3 @@ Brief about the corresponding online training(s) conducted @ SysPlay (https://sy
 
 + Linux System Programming (LSP)
 	- Info Link: https://sysplay.in/index.php?pagefile=lsp_online_training
-	- Directories Used: XXX, ...
